@@ -1,0 +1,15 @@
+.notification:hover {
+    background: hsl(217, 49%, 59%);
+    color:white
+}
+
+.notification {
+    background: hsl(219, 81%, 90%, 90%);
+    padding: 50px;
+    padding-bottom: 37%;
+    padding-top: 37%;
+}
+
+#head {
+    background: hsl(240, 4%, 95%)
+}
